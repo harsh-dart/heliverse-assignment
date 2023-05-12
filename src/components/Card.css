@@ -1,0 +1,21 @@
+.card {
+    height: 300px;
+    box-shadow: 0px 0px 4px 1px black;
+    margin: 10px;
+    min-width: 310px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
+
+img {
+    width: 80px;
+}
+
+.card button {
+    margin: 8px;
+    padding: 5px;
+    width: 80px;
+}
